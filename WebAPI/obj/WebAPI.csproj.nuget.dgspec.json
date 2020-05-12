@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Martin/2. Proyecto Core/WebAPI/WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/Users/Martin/.nuget/packages/",
+        "outputPath": "/Users/Martin/2. Proyecto Core/Aplicacion/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj"
+              },
+              "/Users/Martin/2. Proyecto Core/Persistencia/Persistencia.csproj": {
+                "projectPath": "/Users/Martin/2. Proyecto Core/Persistencia/Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj",
+        "packagesPath": "/Users/Martin/.nuget/packages/",
+        "outputPath": "/Users/Martin/2. Proyecto Core/Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Martin/2. Proyecto Core/Persistencia/Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Martin/2. Proyecto Core/Persistencia/Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "/Users/Martin/2. Proyecto Core/Persistencia/Persistencia.csproj",
+        "packagesPath": "/Users/Martin/.nuget/packages/",
+        "outputPath": "/Users/Martin/2. Proyecto Core/Persistencia/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/Martin/2. Proyecto Core/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Martin/2. Proyecto Core/Seguridad/Seguridad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Martin/2. Proyecto Core/Seguridad/Seguridad.csproj",
+        "projectName": "Seguridad",
+        "projectPath": "/Users/Martin/2. Proyecto Core/Seguridad/Seguridad.csproj",
+        "packagesPath": "/Users/Martin/.nuget/packages/",
+        "outputPath": "/Users/Martin/2. Proyecto Core/Seguridad/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Martin/2. Proyecto Core/WebAPI/WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Martin/2. Proyecto Core/WebAPI/WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "/Users/Martin/2. Proyecto Core/WebAPI/WebAPI.csproj",
+        "packagesPath": "/Users/Martin/.nuget/packages/",
+        "outputPath": "/Users/Martin/2. Proyecto Core/WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/Users/Martin/2. Proyecto Core/Aplicacion/Aplicacion.csproj"
+              },
+              "/Users/Martin/2. Proyecto Core/Seguridad/Seguridad.csproj": {
+                "projectPath": "/Users/Martin/2. Proyecto Core/Seguridad/Seguridad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

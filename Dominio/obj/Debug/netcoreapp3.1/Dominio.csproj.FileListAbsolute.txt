@@ -1,0 +1,9 @@
+/Users/Martin/2. Proyecto Core/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/Martin/2. Proyecto Core/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/Martin/2. Proyecto Core/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netcoreapp3.1/Dominio.csprojAssemblyReference.cache
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb

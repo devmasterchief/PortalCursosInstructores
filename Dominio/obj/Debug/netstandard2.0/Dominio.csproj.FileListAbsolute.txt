@@ -1,0 +1,9 @@
+/Users/Martin/2. Proyecto Core/Dominio/bin/Debug/netstandard2.0/Dominio.deps.json
+/Users/Martin/2. Proyecto Core/Dominio/bin/Debug/netstandard2.0/Dominio.dll
+/Users/Martin/2. Proyecto Core/Dominio/bin/Debug/netstandard2.0/Dominio.pdb
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netstandard2.0/Dominio.csprojAssemblyReference.cache
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netstandard2.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfoInputs.cache
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfo.cs
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netstandard2.0/Dominio.dll
+/Users/Martin/2. Proyecto Core/Dominio/obj/Debug/netstandard2.0/Dominio.pdb

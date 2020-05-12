@@ -1,0 +1,15 @@
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Persistencia.deps.json
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Persistencia.runtimeconfig.json
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Persistencia.runtimeconfig.dev.json
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Persistencia.dll
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Persistencia.pdb
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.csprojAssemblyReference.cache
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.csproj.CoreCompileInputs.cache
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.AssemblyInfoInputs.cache
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.AssemblyInfo.cs
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.csproj.CopyComplete
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.dll
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.pdb
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netcoreapp3.1/Persistencia.genruntimeconfig.cache

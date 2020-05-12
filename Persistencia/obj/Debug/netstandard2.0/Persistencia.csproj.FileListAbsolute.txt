@@ -1,0 +1,12 @@
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netstandard2.0/Persistencia.deps.json
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netstandard2.0/Persistencia.dll
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netstandard2.0/Persistencia.pdb
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netstandard2.0/Dominio.dll
+/Users/Martin/2. Proyecto Core/Persistencia/bin/Debug/netstandard2.0/Dominio.pdb
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.csprojAssemblyReference.cache
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.csproj.CoreCompileInputs.cache
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.AssemblyInfoInputs.cache
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.AssemblyInfo.cs
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.csproj.CopyComplete
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.dll
+/Users/Martin/2. Proyecto Core/Persistencia/obj/Debug/netstandard2.0/Persistencia.pdb

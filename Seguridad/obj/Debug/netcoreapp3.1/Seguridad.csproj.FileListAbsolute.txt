@@ -1,0 +1,16 @@
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Seguridad.deps.json
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Seguridad.dll
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Seguridad.pdb
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Aplicacion.dll
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Persistencia.dll
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Aplicacion.pdb
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/Martin/2. Proyecto Core/Seguridad/bin/Debug/netcoreapp3.1/Persistencia.pdb
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.csprojAssemblyReference.cache
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.csproj.CoreCompileInputs.cache
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.AssemblyInfoInputs.cache
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.AssemblyInfo.cs
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.csproj.CopyComplete
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.dll
+/Users/Martin/2. Proyecto Core/Seguridad/obj/Debug/netcoreapp3.1/Seguridad.pdb

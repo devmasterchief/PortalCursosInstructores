@@ -1,0 +1,14 @@
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.deps.json
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.dll
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.pdb
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Dominio.dll
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Persistencia.dll
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Dominio.pdb
+/Users/Martin/2. Proyecto Core/Aplicacion/bin/Debug/netstandard2.0/Persistencia.pdb
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csprojAssemblyReference.cache
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csproj.CoreCompileInputs.cache
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfoInputs.cache
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfo.cs
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csproj.CopyComplete
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.dll
+/Users/Martin/2. Proyecto Core/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.pdb
